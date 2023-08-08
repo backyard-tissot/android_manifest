@@ -54,6 +54,7 @@
 
   <!-- System -->
   <project path="system/connectivity/wificond" name="android_system_connectivity_wificond" remote="lineage" />
+  <project path="system/ca-certificates" name="android_system_ca-certificates" remote="lineage" />
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="lineage" />
   <project path="system/tools/hidl" name="android_system_tools_hidl" remote="lineage" />
   <project path="system/bpf" name="android_system_bpf" remote="lineage" />
